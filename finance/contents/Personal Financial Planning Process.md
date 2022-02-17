@@ -13,3 +13,5 @@ Caring for one's personal finance helps surpassing certain obstacles:
     3. **Higher Life Expectency**: As it might seems as a positive thing, higher life expectencies with a low job opportunites makes a saving for the future a hard task for the next generations.
     4. **Higher Medical Expenses**: The ever rising cost of medical care makes a planning for a well thought personal finance plan a very important task.
 
+
+- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Personal_finance#Personal_financial_planning_process)

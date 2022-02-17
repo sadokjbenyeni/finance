@@ -8,3 +8,6 @@ Planning for personal finances requires taking into account many factors such as
 - [ ] to get aquainted with the personal financial planning process, read [[Personal Financial Planning Process]].
 - [ ] to understand the key areas of focus of personal finance, read [[Areas of Focus]]
 - [ ] to get and idea about the education and tools used for personal finance literacy, read [[Education and Tools]]
+
+
+- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Personal_finance)

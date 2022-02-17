@@ -10,3 +10,6 @@ Personal finacial situation is binded to the income, wealth and consumption need
         2. Avoid high-fee and actively managed funds
         3. Look for low-cost, diversified mutual funds that balance risk vs. reward appropriately to your target retirement year
     - If using a financial advisor, require them to commit to a fiduciary duty to act in your best interest
+
+
+- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Personal_finance#Personal_finance_principles)
