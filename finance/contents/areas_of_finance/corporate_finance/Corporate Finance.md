@@ -13,11 +13,11 @@ Although it is in principle different from managerial finance which studies the 
 
 - [ ] to learn about the history of personal finance, read [[corporate_finance/contents/History]].
 - [ ] to check the outline, read [[Outline]].
-- [ ] to get aquainted with investment and project validation, read [[Investment and Project Validation]].
+- [ ] to get aquainted with investment and project validation, read [[areas_of_finance/corporate_finance/contents/Investment and Project Valuation]].
 - [ ] to get understand the capital structure, read [[Capital Structure]].
 - [ ] to understand the divided policy, read [[Divided Policy]]
 - [ ] to get and idea about working capital mangament, read [[Working Capital Management]]
-- [ ] to discover the relationship with other area of finance, read [[Relationship With Other Area of Finance]]
+- [ ] to discover the relationship with other area of finance, read [[Relationship with Other Area of Finance]]
 
 
 - To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Corporate_finance)

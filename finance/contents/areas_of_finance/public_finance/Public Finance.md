@@ -16,7 +16,7 @@ Economist Jonathan Gruber has put forth a framework to assess the broad field of
 - [ ] to learn about the overview of public finance, read [[Overview]].
 - [ ] to check the public finance management section, read [[Public Finance Management]].
 - [ ] to get aquainted with gouverment expenditures, read [[Gouverment Expenditures]].
-- [ ] to get understand the financing of gouverment expenditures, read [[Financing of Gouverment Expenditures]].
+- [ ] to get an idea about the financing of gouverment expenditures, read [[Financing of Gouverment Expenditures]].
 - [ ] to understand the gouverment finance statistics and methodology, read [[Gouverment Finance Statistics and Methodology]]
 
 
