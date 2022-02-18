@@ -1,0 +1,49 @@
+# Financing of Gouverment Expenditures
+
+Government expenditures are financed primarily in three ways:
+    - Government revenue
+        - Taxes
+        - Non-tax revenue (revenue from government-owned corporations, sovereign wealth funds, sales of assets, or seigniorage)
+    - Government borrowing
+    - Money creation
+
+![image](../../attachments/corporate_finance/budget_income.png)
+
+How a government chooses to finance its activities can have important effects on the distribution of income and wealth and on the efficiency of markets. The issue of how taxes affect income distribution is closely related to tax incidence, which examines the distribution of tax burdens after market adjustments are taken into account. Public finance research also analyzes effects of the various types of taxes and types of borrowing as well as administrative concerns, such as tax enforcement.
+
+## Taxes
+Taxation is the central part of modern public finance. Its significance arises not only from the fact that it is by far the most important of all revenues but also because of the gravity of the problems created by the present day tax burden. The main objective of taxation is raising revenue. A high level of taxation is necessary in a welfare State to fulfill its obligations. Taxation is used as an instrument of attaining certain social objectives, i.e., as a means of redistribution of wealth and thereby reducing inequalities. Taxation in a modern government is thus needed not merely to raise the revenue required to meet its expenditure on administration and social services, but also to reduce the inequalities of income and wealth. Taxation might also be needed to draw away money that would otherwise go into consumption and cause inflation to rise.
+
+A tax is a financial charge or other levy imposed on an individual or a legal entity by a state or a functional equivalent of a state (for example, tribes, secessionist movements or revolutionary movements). Taxes could also be imposed by a subnational entity. Taxes consist of direct tax or indirect tax, and may be paid in money or as corvée labor. A tax may be defined as a "pecuniary burden laid upon individuals or property to support the government". A tax "is not a voluntary payment or donation, but an enforced contribution, exacted pursuant to legislative authority" and is "any contribution imposed by government whether under the name of toll, tribute, tallage, gabel, impost, duty, custom, excise, subsidy, aid, supply, or other name."
+
+There are various types of taxes, broadly divided into two heads direct and indirect tax:
+    - Stamp duty, levied on documents
+    - Excise tax
+    - Sales tax
+    - Value added tax (VAT)
+    - Services taxes on specific services
+    - Road tax
+    - Gift tax
+    - Duties
+    - Corporate income tax on corporations
+    - Wealth tax
+    - Personal income tax
+
+## Debt
+ 
+Governments, like any other legal entity, can take out loans, issue bonds, and make financial investments. Government debt is money owed by any level of government; either central or federal government, municipal government, or local government. Some local governments issue bonds based on their taxing authority, such as tax increment bonds or revenue bonds.
+
+As the government represents the people, government debt can be seen as an indirect debt of the taxpayers. Government debt can be categorized as internal debt, owed to lenders within the country, and external debt, owed to foreign lenders. Governments usually borrow by issuing securities such as government bonds and bills. Less creditworthy countries sometimes borrow directly from commercial banks or international institutions such as the International Monetary Fund or the World Bank.
+
+Most government budgets are calculated on a cash basis, meaning that revenues are recognized when collected and outlays are recognized when paid. Some consider all government liabilities, including future pension payments and payments for goods and services the government has contracted for but not yet paid, as government debt. This approach is called accrual accounting, meaning that obligations are recognized when they are acquired, or accrued, rather than when they are paid. This constitutes public debt.
+
+## Seigniorage
+
+Seigniorage is the net revenue derived from the issuing of currency. It arises from the difference between the face value of a coin or banknote and the cost of producing, distributing and eventually retiring it from circulation. Seigniorage is an important source of revenue for some national banks, although it provides a very small proportion of revenue for advanced industrial countries.
+
+## Public finance through state enterprise
+Public finance in centrally planned economies has differed in fundamental ways from that in market economies. Some state-owned enterprises generated profits that helped finance government activities.. In various mixed economies, the revenue generated by state-owned enterprises is used for various state endeavors; typically the revenue generated by state and government agencies.
+
+- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Public_finance#Financing_of_government_expenditures)
+
+

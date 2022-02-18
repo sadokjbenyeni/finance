@@ -11,7 +11,7 @@ The terms corporate finance and corporate financier are also associated with inv
 Although it is in principle different from managerial finance which studies the financial management of all firms, rather than corporations alone, the main concepts in the study of corporate finance are applicable to the financial problems of all kinds of firms. Financial management overlaps with the financial function of the accounting profession which is the reporting of historical financial information where in the other side financial management is concerned with the deployment of capital resources to increase a firm's value to the shareholders.
 
 
-- [ ] to learn about the history of personal finance, read [[History]].
+- [ ] to learn about the history of personal finance, read [[corporate_finance/contents/History]].
 - [ ] to check the outline, read [[Outline]].
 - [ ] to get aquainted with investment and project validation, read [[Investment and Project Validation]].
 - [ ] to get understand the capital structure, read [[Capital Structure]].
