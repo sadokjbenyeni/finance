@@ -1,6 +1,6 @@
 # The Financial System
 
-As above, the financial system consists of the flows of capital that take place between individuals (personal finance), governments (public finance), and businesses (corporate finance). "Finance" thus studies the process of channeling money from savers and investors to entities that need it. Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
+The financial system consists of the flows of capital that take place between individuals (personal finance), governments (public finance), and businesses (corporate finance). "Finance" thus studies the process of channeling money from savers and investors to entities that need it. Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
 
 In general, an entity whose income exceeds its expenditure can lend or invest the excess, intending to earn a fair return. Correspondingly, an entity where income is less than expenditure can raise capital usually in one of two ways: 
     1. By borrowing in the form of a loan (private individuals), or by selling government or corporate bonds
@@ -14,4 +14,7 @@ Investing typically entails the purchase of stock, either individual securities,
 
 Inter-institutional trade and investment, and fund-management at this scale, is referred to as "wholesale finance". Institutions here extend the products offered, with related trading, to include bespoke options, swaps, and structured products, as well as specialized financing; this "financial engineering" is inherently mathematical, and these institutions are then the major employers of "quants" (see below). In these institutions, risk management, regulatory capital, and compliance play major roles.
 
+- [ ] to learn the components of financial system, read [[Components of Financial System]].
+- [ ] to understand banks, read [[Banks]].
+- [ ] 
 - To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Finance#The_financial_system)

@@ -45,4 +45,10 @@ Behavioral finance includes such topics as:
   
 A strand of behavioral finance has been dubbed quantitative behavioral finance, which uses mathematical and statistical methodology to understand behavioral biases in conjunction with valuation.
 
+- [ ] to learn about managerial finance, read [[Managerial Finance]].
+- [ ] to check financial economics, read [[Financial Economics]].
+- [ ] to get aquainted with financial mathematics, read [[Financial Mathematics]].
+- [ ] to discover experimental finance, read [[Experimenetal Finance]].
+- [ ] to understand Behavioural finance, read [[Behavioural Finance]].
+  
 - To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Finance#Financial_theory)
